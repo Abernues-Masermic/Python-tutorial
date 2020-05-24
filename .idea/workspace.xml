@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ae9bbe73-cad5-4218-9735-fc2ed39bdff6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1bm9A6VsuV4pbZSFLQfWih0QvW8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Optional_parameters.py" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunManager" selected="Python.GUI">
+    <configuration name="Classes" type="PythonConfigurationType" factoryName="Python">
+      <module name="Tutorial2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Classes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GUI" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Tutorial2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Classes" />
+      <item itemvalue="Python.GUI" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.GUI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae9bbe73-cad5-4218-9735-fc2ed39bdff6" name="Default Changelist" comment="" />
+      <created>1589226254787</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589226254787</updated>
+      <workItem from="1589226256213" duration="1759000" />
+      <workItem from="1589270501094" duration="774000" />
+      <workItem from="1589571843286" duration="1573000" />
+      <workItem from="1589876809021" duration="179000" />
+      <workItem from="1589913524729" duration="2985000" />
+      <workItem from="1589999175107" duration="2941000" />
+      <workItem from="1590306169326" duration="798000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590306244045">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="174" y="85" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1590306244045" />
+    <state x="500" y="185" key="FileChooserDialogImpl" timestamp="1589572010918">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="500" y="185" key="FileChooserDialogImpl/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1589572010918" />
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom" timestamp="1590309682565">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.bottom/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1590309682565" />
+    <state width="1397" height="222" key="GridCell.Tab.0.center" timestamp="1590309682565">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.center/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1590309682565" />
+    <state width="1397" height="222" key="GridCell.Tab.0.left" timestamp="1590309682565">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.left/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1590309682565" />
+    <state width="1397" height="222" key="GridCell.Tab.0.right" timestamp="1590309682565">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state width="1397" height="222" key="GridCell.Tab.0.right/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1590309682565" />
+    <state x="416" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1590306170139">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="416" y="254" key="com.intellij.ide.util.TipDialog/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1590306170139" />
+    <state x="370" y="100" width="672" height="678" key="search.everywhere.popup" timestamp="1589915995691">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="370" y="100" width="672" height="678" key="search.everywhere.popup/1440.0.1366.728/0.0.1440.860@0.0.1440.860" timestamp="1589915995691" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tutorial2$Optional_parameters.coverage" NAME="Optional_parameters Coverage Results" MODIFIED="1589916379256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tutorial2$Tutorial.coverage" NAME="Tutorial Coverage Results" MODIFIED="1590001749594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Tutorial2$GUI.coverage" NAME="GUI Coverage Results" MODIFIED="1590309605738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
